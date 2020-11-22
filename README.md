@@ -1,0 +1,1 @@
+# node-yandex-cloud-function-boilerplate
